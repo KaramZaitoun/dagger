@@ -1,4 +1,4 @@
-Dagger 1
+Dagger 1 - KARAM
 ========
 
 A fast dependency injector for Android and Java.
